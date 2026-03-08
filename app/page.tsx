@@ -9,6 +9,7 @@ const dpEditVideos = [
   { title: "Big YBA - Breathe (Official Video)", url: "https://youtu.be/ehcrPZLQ9fc?si=pb25hSC2r9tI3BtF" },
   { title: "BLE DLO - Stop Doubting (Official Music Video)", url: "https://youtu.be/Oyf0pCL_Cso?si=8FLRXSyftm3jmFdT" },
   { title: "Hurricane Wisdom - Rose Gold (Official Video)", url: "https://youtu.be/MLIDRDjG4Zg?si=4Ve8iwKM9magB8TM" },
+  { title: "Big YBA - Sex Me (Official Video)", url: "https://youtu.be/jr0btbZG4WM" },
 ];
 
 const vfxVideos = [

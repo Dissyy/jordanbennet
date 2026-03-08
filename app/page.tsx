@@ -1,7 +1,5 @@
 "use client";
 
-import ThemeToggle from "./components/ThemeToggle";
-
 const dpEditVideos = [
   { title: "Topoppgen - twin towers (Official Video)", url: "https://youtu.be/v1E2jOkTtng" },
   { title: "Topoppgen - features (Official Video)", url: "https://youtu.be/dJLQrCgMwzo" },
@@ -25,8 +23,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#EBEBEB] dark:bg-black text-black dark:text-white transition-colors duration-200 p-8">
       <div className="max-w-3xl mx-auto">
-        <ThemeToggle />
-        <h1 className="text-base mb-16">Jordan Bennett</h1>
+<h1 className="text-base mb-16">Jordan Bennett</h1>
         <div className="space-y-12">
           <section>
             <h2 className="text-base mb-6 underline">DP/Edit</h2>

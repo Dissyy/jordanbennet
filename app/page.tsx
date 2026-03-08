@@ -3,6 +3,8 @@
 import ThemeToggle from "./components/ThemeToggle";
 
 const dpEditVideos = [
+  { title: "Topoppgen - twin towers (Official Video)", url: "https://youtu.be/v1E2jOkTtng" },
+  { title: "Topoppgen - features (Official Video)", url: "https://youtu.be/dJLQrCgMwzo" },
   { title: "Thirty6kealo - Ricky Owens (feat. Trap Dickey) [Official Music Video]", url: "https://youtu.be/XfkHMppVyHA?si=VjBsP41OqUFpyXEd" },
   { title: "Thirty6Kealo - Dirty Glove (Official Music Video)", url: "https://youtu.be/qxiZRw2T5Qw?si=IyfyC3wWk4OfHyTU" },
   { title: "Big YBA - John Doe (Official Video)", url: "https://youtu.be/yjC3UgcM5cE?si=VUk_yjfZqtu3vAIw" },
@@ -56,6 +58,14 @@ export default function Home() {
               </a>
               <a href="mailto:Jbthecreatorr@gmail.com" className="block hover:opacity-60 transition-opacity">
                 Jbthecreatorr@gmail.com
+              </a>
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSc0jYOeCi4ErQTQMeizwMMjLhdaKa8s3RiY9O-8r_2ia0x9Iw/viewform?usp=publish-editor"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block hover:opacity-60 transition-opacity"
+              >
+                Contact
               </a>
             </div>
           </section>
